@@ -6,7 +6,7 @@ This project focuses on improving HTML and CSS skills by creating a clean and mo
 ---
 
 ## 🚀 Live Demo
-https://github.com/mananbdev/Odin-Landing-page
+https://mananbdev.github.io/Odin-Landing-page/
 
 ---
 
