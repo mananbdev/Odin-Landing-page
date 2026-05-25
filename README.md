@@ -6,7 +6,7 @@ This project focuses on improving HTML and CSS skills by creating a clean and mo
 ---
 
 ## 🚀 Live Demo
-https://github.com/mananbansal583-git/Odin-Landing-page
+https://github.com/mananbdev/Odin-Landing-page
 
 ---
 
@@ -62,7 +62,7 @@ Odin-Landing-page/
 Clone the repository:
 
 ```bash
-git clone https://github.com/mananbansal583-git/Odin-Landing-page.git
+git clone https://github.com/mananbdev/Odin-Landing-page.git
 ```
 
 Open `index.html` in your browser.
@@ -78,4 +78,4 @@ This project is from
 
 ## 👨‍💻 Author
 
-GitHub: [@mananbansal583-git](https://github.com/mananbansal583-git)
+GitHub: [@mananbdev](https://github.com/mananbdev)
