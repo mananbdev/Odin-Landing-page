@@ -6,7 +6,7 @@ This project focuses on improving HTML and CSS skills by creating a clean and mo
 ---
 
 ## 🚀 Live Demo
-https://mananbdev.github.io/Odin-Landing-page/
+https://mananbdev.github.io/odin-landing-page/
 
 ---
 
@@ -47,7 +47,7 @@ Through this project, I practiced:
 ## 📂 Folder Structure
 
 ```bash
-Odin-Landing-page/
+odin-landing-page/
 │
 ├── index.html
 ├── style.css
@@ -62,7 +62,7 @@ Odin-Landing-page/
 Clone the repository:
 
 ```bash
-git clone https://github.com/mananbdev/Odin-Landing-page.git
+git clone https://github.com/mananbdev/odin-landing-page.git
 ```
 
 Open `index.html` in your browser.
